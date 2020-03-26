@@ -188,3 +188,4 @@ class Student:
 """
 studentB = "I am studentB"
 print(studentB)
+print(studentA, studentB)
