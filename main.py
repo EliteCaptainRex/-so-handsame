@@ -186,9 +186,5 @@ for i in range(1, num+1):
 class Student:
     def _init_(self):
 """
-
-y = 78
-print(y)
-
 studentA = "I am studentA"
 print(studentA)
