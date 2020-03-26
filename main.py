@@ -186,5 +186,5 @@ for i in range(1, num+1):
 class Student:
     def _init_(self):
 """
-studentA = "I am studentA"
-print(studentA)
+studentB = "I am studentB"
+print(studentB)
