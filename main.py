@@ -189,3 +189,6 @@ class Student:
 
 y = 78
 print(y)
+
+studentA = "I am studentA"
+print(studentA)
